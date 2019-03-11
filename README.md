@@ -1,7 +1,6 @@
-"Local Manfaist for building the Asus Google Nexus 7 (Grouper) 8.1 GSI"
-
 Asus Google Nexus 7 (Grouper)
 ======================
+"Local Manfaist for building the Asus Google Nexus 7 (Grouper) 8.1 GSI"
 
 | Basic   | Spec Sheet                  |
 | -------:|:--------------------------- |
