@@ -1,18 +1,19 @@
-Asus Google Nexus 7 (Grouper)
-======================
-"Local Manfaist for building the Asus Google Nexus 7 (Grouper) 8.1 GSI"
+Samsung Galaxy Tab (E) SM-T560NU (gtelwifiue)
+=============================================
+"Local Manfaist for building the Samsung Galaxy Tab (E) SM-T560NU (gtelwifiue) 8.1 GSI"
 
-| Basic   | Spec Sheet                  |
-| -------:|:--------------------------- |
-| CPU     | Quad-core 1.2 GHz Cortex-A9 | 
-| CHIPSET | Nvidia Tegra 3 |
-| GPU     | ULP GeForce |
-| Memory  | 1.5GB RAM |
-| Shipped Android Version | 4.1.2 |
-| Storage | Up tp 32GB |
-| MicroSD | No |
-| Battery | 4325 mAh |
-| Display | 7.81 x 4.72 x 0.41 in |
-| Camera  | 1.2 MP, 1280 x 720 pixels |
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Qualcomm MSM8916 Quad-core 1.2 GHz ARM® Cortex™ A53
+CHIPSET | Qualcomm MSM8916 Snapdragon 410
+GPU     | Adreno 306
+Memory  | 1.5 GB
+Shipped Android Version | 6.0.1
+Storage | 16 GB
+MicroSD | Up to 256 GB
+Battery | 7300 mAh
+Display | 1280 x 800 (qHD), 9.6" (243.4mm)
+Rear Camera  | 5.0 MP
+Front Camera | 2.0 MP
 
-![Asus Google Nexus 7](https://rukminim1.flixcart.com/image/704/704/tablet/n/p/w/asus-nexus-7-32-gb-original-imadtjm2abugmszs.jpeg?q=70 "Asus Google Nexus 7")
+![Samsung Galaxy Tab (E) SM-T560NU](https://images-na.ssl-images-amazon.com/images/I/41PPXm6DxkL.jpg "Samsung Galaxy Tab (E) SM-T560NU")
